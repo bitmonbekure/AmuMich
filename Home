@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amumich - Universal E-Commerce and E-Commission Platform</title>
+    <meta name="description" content="Discover legal products and services from past, present, and future trends with AI-powered recommendations and Amazon affiliate links.">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="nav-container">
+                <h1>Amumich</h1>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="trends.html">Trends</a></li>
+                    <li><a href="review1.html">Reviews</a></li>
+                </ul>
+                <div class="search-bar">
+                    <input type="text" placeholder="Search products across time...">
+                    <button>Search</button>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h2>Welcome to Amumich: Revolutionizing E-Commerce</h2>
+            <p>Explore automated, AI-enhanced discovery of sellable items worldwide, with commission-based referrals including Amazon affiliate products.</p>
+            <a href="about.html" class="cta-button">Learn More</a>
+        </section>
+        <section class="features">
+            <h3>Key Features</h3>
+            <ul>
+                <li>AI-Driven Recommendations</li>
+                <li>Global Product Coverage</li>
+                <li>Secure Affiliate Links</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Amumich. All rights reserved. <a href="about.html#disclosure">Affiliate Disclosure</a></p>
+    </footer>
+    <script>
+        document.querySelector('button').addEventListener('click', () => alert('Search functionality coming soon with AI integration.'));
+    </script>
+</body>
+</html>
